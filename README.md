@@ -1,5 +1,5 @@
 Run the program:
-python main.py
+python main.py(needed for use: python, pygame)
 
 Controls:
 LMB + mouse movement - camera rotation
